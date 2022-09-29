@@ -1,0 +1,15 @@
+
+.eventDescriptionLabelContainer {
+    position: relative;
+    height: 50%;
+    width: 100%;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-start;
+}
+
+.eventDescriptionLabel {
+    padding: 10px;
+    color: white;
+    font-size: 12px;
+}
